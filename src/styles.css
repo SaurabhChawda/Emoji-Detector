@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@600&display=swap");
+
+.App {
+  font-family: "Stick No Bills", sans-serif;
+  text-align: center;
+}
+body {
+  background-color: skyblue;
+}
+input {
+  max-width: 300px;
+  width: 60%;
+  padding: 1rem;
+  font-family: "Stick No Bills", sans-serif;
+}
